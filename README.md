@@ -2,8 +2,6 @@
 
 # Prédiction de la Résistance Bactérienne
 
-Ce projet a été réalisé dans le cadre du cours **INF8245AE - Apprentissage automatique** à Polytechnique Montréal (Automne 2025).
-
 ## Objectif
 L'objectif principal est de prédire la résistance aux antibiotiques d'échantillons bactériens (classification binaire) à partir de caractéristiques génomiques et de métadonnées.
 
@@ -46,8 +44,6 @@ La solution retenue est un **ensemble par vote majoritaire** combinant les 9 con
 ---
 
 # Bacterial Resistance Prediction
-
-This project was carried out as part of the course **INF8245AE - Machine Learning** at Polytechnique Montréal (Fall 2025).
 
 ## Objective
 The main objective is to predict antibiotic resistance in bacterial samples (binary classification) using genomic features and metadata.
